@@ -1,12 +1,11 @@
-My first git repo (on the main branch)
+My first git repo
 ================
 Shangjun Yao
 
 # My first commit
 
 Here is text that makes up my first commit in my first repo. I am now
-adding new line to this first commit section of readme. text for another
-commit. text for yet another commit.
+adding new line to this first commit section of readme.
 
 # My second commit
 
