@@ -5,7 +5,10 @@ Shangjun Yao
 # My first commit
 
 Here is text that makes up my first commit in my first repo. I am now
-adding new line to this first commit section of readme.
+adding new line to this first commit section of readme. text for another
+commit. text for yet another commit.
+
+\_ Here is some text on the test branch.
 
 # My second commit
 
