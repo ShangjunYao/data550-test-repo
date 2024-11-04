@@ -5,7 +5,8 @@ Shangjun Yao
 # My first commit
 
 Here is text that makes up my first commit in my first repo. I am now
-adding new line to this first commit section of readme.
+adding new line to this first commit section of readme. text for another
+commit. text for yet another commit.
 
 # My second commit
 
@@ -22,3 +23,15 @@ Here is some text that i will commit to the test branch.
 # My new_test branch
 
 Here is some text that i will commit to the new test branch.
+
+``` r
+print("hello from r")
+```
+
+    ## [1] "hello from r"
+
+``` r
+Sys.Date()
+```
+
+    ## [1] "2024-11-03"
